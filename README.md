@@ -1,6 +1,5 @@
 📘 Proyecto de Optimización Numérica – Semestre 2025-1
-👨‍💻 Autor:
-Jhon Fredy Hoyos Cardenas
+👨‍💻 Autor:Jhon Fredy Hoyos Cardenas
 Estudiante de Ingeniería de Sistemas – Universidad de Antioquia
 
 ![image](https://github.com/user-attachments/assets/f5987242-db51-4129-8d1d-ce4f380013fd)
