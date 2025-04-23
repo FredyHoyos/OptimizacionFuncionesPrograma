@@ -68,7 +68,6 @@ La búsqueda aleatoria permite funciones de varias variables: x**2 + y**2, con v
 
 
 📬 Contacto
-💼 LinkedIn
-
-📧 frediicardenas1234@gmail.com
+📧 Gmail: frediicardenas1234@gmail.com
+🔗 LinkedIn: [Fredy Cárdenas](https://www.linkedin.com/in/fredy-c%C3%A1rdenas-a4072731a/)
 
