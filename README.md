@@ -3,6 +3,7 @@
 Jhon Fredy Hoyos Cardenas
 Estudiante de Ingeniería de Sistemas – Universidad de Antioquia
 
+![image](https://github.com/user-attachments/assets/f5987242-db51-4129-8d1d-ce4f380013fd)
 
 🎯 Descripción del Proyecto
 Este proyecto implementa una interfaz gráfica en Python que permite aplicar y visualizar distintos métodos numéricos de optimización, tanto para búsqueda de raíces como para búsqueda de máximos/mínimos de funciones. Es una herramienta interactiva diseñada como parte del curso de Optimización (2025-1), ideal para aprender y comparar algoritmos clásicos.
